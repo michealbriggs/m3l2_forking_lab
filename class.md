@@ -1,5 +1,3 @@
 micheal
 
-australia
-
 Version Control
